@@ -12,3 +12,6 @@ I am a software developer with a strong background in backend engineering. I hav
 <a href="">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abirrahmanone&layout=compact&theme=radical" alt="abirrahmanone"/>
 </a>
+
+
+!![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=abirrahmanone&show_icons=true&theme=radical)
