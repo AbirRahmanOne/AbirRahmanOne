@@ -14,4 +14,4 @@ I am a software developer with a strong background in backend engineering. I hav
 </a>
 
 
-!![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=abirrahmanone&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=abirrahmanone&show_icons=true&theme=radical)
