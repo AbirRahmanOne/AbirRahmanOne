@@ -1,6 +1,6 @@
 Hi, there! 
 
-# Md. Mahfuzur Rahman Abir 👋
+# Abir Rahmna 👋
 
 ![](https://komarev.com/ghpvc/?username=abirrahmanone&color=brightgreen)
 
