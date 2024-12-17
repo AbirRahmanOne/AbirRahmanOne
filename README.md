@@ -2,8 +2,6 @@ Hi, there!
 
 # Abir Rahmna 👋
 
-![](https://komarev.com/ghpvc/?username=abirrahmanone&color=brightgreen)
-
 [![Linkedin](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=1976d2&logo=Linkedin&logoColor=ffffff)](https://www.linkedin.com/)
 
 
